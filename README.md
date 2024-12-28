@@ -20,6 +20,16 @@ It utilizes the **Retrieval-Augmented Generation (RAG)** approach to integrate e
 
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
-```bash
+
 git clone https://github.com/your-username/image-generation-app.git
 cd image-generation-app
+
+### 2. Install the dependencies
+Use the following command:
+npm install express cors dotenv openai
+
+### 3. Input your API key and run the application
+Backend: npm start
+Frontend: Open with live server
+
+
